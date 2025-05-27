@@ -6,7 +6,7 @@ To download Quicken after purchase, go to **quicken.com**, sign in, and access y
 
 .. image:: download-quicken-this-computer.png
    :alt: Download Quicken
-   :target: https://quicken-info.eb-help.com/help
+   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 
