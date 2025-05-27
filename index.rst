@@ -16,11 +16,11 @@ Follow these steps to download and install Quicken on your Windows computer:
 
 1. Open a web browser on your computer (Windows or Mac).
 
-2. Go to the official Quicken website: quicken.com/download.
+2. Go to the official Quicken website: **quicken.com/download**.
 
 3. Sign in with the Quicken ID (email) you used to purchase Quicken.
 
-4. Once logged in, navigate to your “My Account” or “My Downloads” section.
+4. Once logged in, navigate to your “**My Account**” or “**My Downloads**” section.
 
 5. Click on the Download button for your operating system (Windows or Mac).
 
@@ -63,7 +63,7 @@ Where Can I Find My Quicken Activation or Product Key?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 You can find your Quicken activation key or product information in these ways:
 
-1. Visit the official Quicken website and sign into your account.
+1. Visit the official **Quicken** website and sign into your account.
 2. Go to the Order History or My Downloads section.
 3. Locate your product and copy the license or activation details if available.
 4. Check your confirmation email for the product key and download instructions.
@@ -73,9 +73,9 @@ How Do I Reinstall Quicken on Another Device?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 To reinstall Quicken:
 
-1. Visit quicken.com and log into your account.
+1. Visit **quicken.com** and log into your account.
 
-2. Go to your My Account or My Products page.
+2. Go to your **My Account** or My Products page.
 
 3. Download the installer and run it on your new device.
 
