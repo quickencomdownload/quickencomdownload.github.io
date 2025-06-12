@@ -51,7 +51,7 @@ Once you’ve downloaded the installer, follow the steps below to **install Quic
 
 ✅ *Your active subscription will automatically sync upon sign-in.*
 
-🛠 **Installation trouble?** Use Quicken’s Install & Update support page or contact their technical support team.
+**Installation trouble?** Use Quicken’s Install & Update support page or contact their technical support team.
 
 Quicken Download to a New Computer – Reinstall Without Losing Data
 ===================================================================
@@ -65,7 +65,7 @@ Need to move Quicken to a new computer? You can reinstall easily by following th
 5. Restore the backup file from your USB/cloud.
 6. Log in to activate and access your data.
 
-🔁 This works perfectly if you’re switching PCs or upgrading to a new MacBook.
+This works perfectly if you’re switching PCs or upgrading to a new MacBook.
 
 📞 **Still having trouble transferring data?** Reach out to Quicken’s data migration support at `quicken.com/download <https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==>`_.
 
@@ -79,7 +79,7 @@ To activate Quicken after installation, you usually just need to sign in. But if
 - Go to **Order History** > find your product > locate the key
 - Copy and paste the activation key during setup
 
-🔐 **Lost your product key or email?** Quicken’s support can resend your purchase details if you contact them with proof of purchase.
+**Lost your product key or email?** Quicken’s support can resend your purchase details if you contact them with proof of purchase.
 
 System Requirements for Quicken Download and Installation
 ==========================================================
@@ -98,9 +98,8 @@ Make sure your computer meets these minimum system requirements before installin
 - At least 256MB RAM
 - Stable internet connection
 
-📝 *Keep your OS and browser up to date for best performance.*
 
-💡 **Tip:** If Quicken is crashing or not launching, it’s often due to outdated system software or drivers. Try restarting your device and checking for updates.
+**Tip:** If Quicken is crashing or not launching, it’s often due to outdated system software or drivers. Try restarting your device and checking for updates.
 
 How to Transfer and Restore Quicken Data to a New Device
 =========================================================
@@ -112,9 +111,9 @@ If you backed up your data file (`.QDF`), restoring it is easy:
 3. Select your backup file from USB or cloud.
 4. Click **Open**, and your data will load.
 
-🔒 Tip: Always use cloud or encrypted backup to protect your financial records.
+Tip: Always use cloud or encrypted backup to protect your financial records.
 
-🆘 **Data not restoring correctly?** Visit Quicken’s data recovery help: `https://quickenhelpguide.gitbook.io/quickenhelpguide`.
+**Data not restoring correctly?** Visit Quicken’s data recovery help: `https://quickenhelpguide.gitbook.io/quickenhelpguide`.
 
 How to Update or Reinstall Quicken Easily
 =========================================
@@ -135,7 +134,7 @@ What About Quicken Free Download Full Version?
 
 There is **no legal free full version of Quicken** available. Avoid downloading from unofficial websites claiming “quicken free download full version” as these can be unsafe.
 
-✅ The best way to try Quicken risk-free is to use their **30-day money-back guarantee** from the official site: `quicken.com <https://www.quicken.com>`_.
+The best way to try Quicken risk-free is to use their **30-day money-back guarantee** from the official site: `quicken.com <https://www.quicken.com>`_.
 
 Quicken Installation Tips for Smooth Setup
 ==========================================
