@@ -32,7 +32,7 @@ Follow These Steps:
 
 📌 You can also check your **order confirmation email** for a direct download link.
 
-💬 **Need help finding your download?** Visit `https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==` or contact Quicken Customer Support for assistance.
+💬 **Need help finding your download?** Visit `https://www.quicken.com/support <https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==>`_ or contact Quicken Customer Support for assistance.
 
 How to Install Quicken on This Computer (Windows or Mac)
 =========================================================
@@ -67,7 +67,7 @@ Need to move Quicken to a new computer? You can reinstall easily by following th
 
 🔁 This works perfectly if you’re switching PCs or upgrading to a new MacBook.
 
-📞 **Still having trouble transferring data?** Reach out to Quicken’s data migration support at `https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==`.
+📞 **Still having trouble transferring data?** Reach out to Quicken’s data migration support at `quicken.com/download <https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==>`_.
 
 Where to Find Your Quicken Activation Code or Product Key?
 ==========================================================
