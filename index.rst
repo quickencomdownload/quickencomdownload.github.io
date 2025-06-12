@@ -23,11 +23,11 @@ If you’ve already purchased Quicken, there’s no need to buy it again. You ca
 
 Follow These Steps:
 
-1. Open your web browser (Windows or Mac).
-2. Go to `quicken.com/download <https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==>`_.
+1. Firstly open your web browser (Windows or Mac).
+2. Then go to `quicken.com/download <https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==>`_.
 3. Click **Sign In** and enter your Quicken ID (email used during purchase).
 4. Go to **My Account** > **My Downloads**.
-5. Choose your version and click **Download Quicken**.
+5. Select your version and click **Download Quicken**.
 6. Once the installer is downloaded, open it and begin installation.
 
 📌 You can also check your **order confirmation email** for a direct download link.
