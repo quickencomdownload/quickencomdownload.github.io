@@ -9,11 +9,6 @@ To download Quicken after purchase, go to **quicken.com**, sign in, and access y
    :target: https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
-
-==============================================
-Quicken Download Guide: How to Install Quicken on This Computer After Purchase
-==============================================
-
 If you're looking for a **Quicken download** after purchasing the software, you're in the right place. Whether you're trying to **install Quicken on this computer**, download it again after a reset, or move to a new device—this guide has you covered. We’ll walk you through downloading, installing, activating, and transferring your Quicken software with ease.
 
 Quicken Download: Already Purchased? Here's How to Get It
