@@ -146,7 +146,6 @@ Quicken Installation Tips for Smooth Setup
 - Use the Quicken mobile app for on-the-go access
 - Enable automatic updates for improved security and performance
 
-📞 **Need personalized help?** You can chat with support at: `https://fm.ci?aHR0cHM6Ly9xdWlja2VuLWRvd25sb2FkLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==`.
 
 Final Thoughts on Quicken Download and Installation
 ====================================================
