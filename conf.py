@@ -15,41 +15,41 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Bitdefender Central'
-copyright = '2025, Bitdefender Central login'
-author = 'Bitdefender Central'
+project = 'quicken download'
+copyright = '2025, Quicken'
+author = 'Quicken tax Support'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
-# Favicon
+# -- HTML output settings ----------------------------------------------------
+
+# Title shown in the browser tab and top of HTML pages
+html_title = "Step-by-Step Guide to Download Quicken If Already Purchased - Quicken software"
+
+# Optional short title (e.g., for nav bar)
+html_short_title = "Quicken tax help"
+
+# Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
 
-# -- General configuration ---------------------------------------------------
-
-# Add any Sphinx extension module names here, as strings. 
-# These extensions are optional but useful for Read the Docs.
-
-
-# Add any paths that contain templates here, relative to this directory.
-# templates_path = ['_templates']
-
-# List of patterns, relative to source directory, that match files and
-# directories to ignore when looking for source files.
-# This pattern also affects html_static_path and html_extra_path.
-# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
-# -- Options for HTML output -------------------------------------------------
-
-# The theme to use for HTML and HTML Help pages.
-# Use the Read the Docs theme for better compatibility with Read the Docs.
+# Choose a theme (uncomment if needed)
 # html_theme = 'sphinx_rtd_theme'
 
-# Add any paths that contain custom static files (such as style sheets)
-# here, relative to this directory. These files are copied after the built-in
-# static files, so a file named "default.css" will overwrite the built-in one.
-# html_static_path = ['_static']
-html_show_sourcelink = False  # Hides the "View page source" link
+# Hide "View page source"
+html_show_sourcelink = False
+
+# Allow raw HTML blocks in .rst files
+html_allow_unsafe = True
+
+# Theme customization options
 html_theme_options = {
-    'show_powered_by': False,  # Disable "Powered by Sphinx"
+    'show_powered_by': False,
 }
+
+# Paths to templates and static files
+templates_path = ['_templates']
+# html_static_path = ['_static']  # Uncomment if you have static assets
+
+# Patterns to ignore when looking for source files
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
